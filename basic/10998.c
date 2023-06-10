@@ -1,6 +1,3 @@
-
-//사칙연산
-
 #include <stdio.h>
 
 int main() {
